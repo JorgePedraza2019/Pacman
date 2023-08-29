@@ -6,7 +6,7 @@ This project displays a Pacman moving left to right and viceversa.
 The project purpose is to see the Pacman moving across the display while using javascript variables, arrays, functions, and conditionals.
 
 ## How to Run:
-To run the project, it must first be downloaded and the index.html file must be opened with the browser.
+To run the project, it must first be downloaded and the index.html file must be opened with the browser. PacMan will then automatically move from left to right and vice versa across the full screen resolution.
 
 ## Roadmap of future improvements:
 The improvements of this project in the future will be to place food where PacMan passes so that it increases in size and thus make the project more complete.
